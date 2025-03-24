@@ -25,13 +25,7 @@ The purpose of this project is to develop a food delivery app using the MERN (Mo
 - all the orders new and old are visible in my-orders page
 - user friendly UI
 
-## This app is Live
 
-frontend - > https://food-order-app-3pw0.onrender.com/
-
-admin panel -> https://food-order-admin-7chz.onrender.com/
-
-backend -> https://food-order-backend-ultg.onrender.com
 
 ## Environment Variables
 
